@@ -1048,7 +1048,7 @@ st.markdown(
     """
 <div class="pm-header">
     <p class="pm-title">Analisa Confermance Checking dan Deteksi Bottleneck</p>
-    <p class="pm-subtitle">Enterprise Batch Job — Process Mining & BPI Dashboard</p>
+    <p class="pm-subtitle">Enterprise Batch Job — Process Mining</p>
     
 </div>
 """,
